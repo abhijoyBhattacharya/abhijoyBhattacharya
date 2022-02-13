@@ -42,4 +42,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijoyBhattacharya&repo=quadraticCalculator&theme=chartreuse-dark" />
 </a>
 
-## See you around!**
+## **See you around!**
