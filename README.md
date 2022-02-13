@@ -8,7 +8,7 @@
 
 ### Photography is one of my passions and I'd like to think I'm good at it, you should check out my Instagram!
 
-### Feel free to reach out to me by e-mail or on my social media!
+### Feel free to reach out to me by email or on my social media!
 
 ---
 
@@ -16,21 +16,21 @@
 
 [![Linkedin: abhijoyBhattacharya](https://img.shields.io/badge/-Abhijoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijoybhattacharya)](https://www.linkedin.com/in/abhijoybhattacharya)
 [![Instagram: abhijoyBhattacharya](https://img.shields.io/badge/-abhijoybhattacharya-pink?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/abhijoybhattacharya)](https://www.instagram.com/abhijoybhattacharya/)
-[![GitHub abhijoyBhattacharya](https://img.shields.io/github/followers/abhijoyBhattacharya?label=follow&style=social)](https://github.com/abhijoyBhattacharya)
-
+[![GitHub: abhijoyBhattacharya](https://img.shields.io/github/followers/abhijoyBhattacharya?label=follow&style=social)](https://github.com/abhijoyBhattacharya)
+#### Email: abhijoy.bhattacharya@gmail.com
 ---
 
-## **Github Stats📈**
+## **Github Stats**
 
 ![Abhijoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijoyBhattacharya&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 ---
 
-## **Most Used Languages 🤟**
+## **Most Used Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoyBhattacharya&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Some Projects
+# **Some Projects**
 
 <a href="https://github.com/abhijoyBhattacharya/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijoyBhattacharya&repo=portfolio&theme=chartreuse-dark" />
@@ -42,4 +42,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijoyBhattacharya&repo=quadraticCalculator&theme=chartreuse-dark" />
 </a>
 
-## See you around!
+## See you around!**
